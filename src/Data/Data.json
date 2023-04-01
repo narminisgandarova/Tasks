@@ -1,0 +1,45 @@
+[
+    {
+        "id":"1",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/files/shop01.jpg?v=1654776368",
+        "title":"Chronograph Watch",
+        "price":"1250",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    },
+    {
+        "id":"2",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/files/shop03.jpg?v=16547763",
+        "title":"Best Quartz Dial Watch",
+        "price":"1150",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    },
+    {
+        "id":"3",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/files/shop02.jpg?v=1654776404",
+        "title":"Chronograph Watch",
+        "price":"1050",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    },
+    {
+        "id":"4",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/products/shop9_600x.png?v=1656139066",
+        "title":"Black Dial Watch",
+        "price":"1350",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    },
+    {
+        "id":"5",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/products/shop10_600x.png?v=1656138927",
+        "title":"Bracelet Watch",
+        "price":"2500",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    },
+    {
+        "id":"6",
+        "img":"https://cdn.shopify.com/s/files/1/0559/0505/8894/products/shop11_600x.png?v=1656138747",
+        "title":"Analog Men's Watch",
+        "price":"1630",
+        "desc": "Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis."
+    }
+    
+]

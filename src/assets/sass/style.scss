@@ -1,0 +1,148 @@
+.foto{
+    img{
+        width: 100%;
+    }
+    
+}
+.mybox{
+    top: 400px;
+    left: 250px;
+}
+.mybox1{
+    top: 400px;
+    right: 250px;
+}
+.mybtn{
+    box-shadow: none;
+    width: 30%;
+    height: 60px;
+    border: 1px solid #fff;
+    background: transparent;
+    color: #fff;
+}
+.left{
+    background-image: url('../imgs/watch2.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60vh;
+    width: 100%;
+    background-size: cover
+}
+.right{
+    background-image: url('../imgs/shop2.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+
+}
+.bg{
+    background-color: #000;
+    .card{
+        border: 1px solid black;
+        .card-body{
+            background-color: #000;
+        }
+    }
+}
+.fourth{
+    background-image: url('https://cdn.shopify.com/s/files/1/0559/0505/8894/files/Watch-Animation-2.gif?v=1655735099');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+.card{
+    background-color: #000;
+}
+.border1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #F0A42C;
+    width: 80%;
+    height: 90%;
+}
+.mytext1{
+    bottom: -20px;
+    z-index: 101;
+    width: 70%;
+    height: 250px;
+    background-color: #000;
+    color: #fff;
+    right: -10px;
+    padding: 10px;
+    transition: .5s;
+    &:hover{
+        background-color: #fff;
+        color: #000;
+        cursor: pointer;
+    }
+}
+.eight{
+    background-image: url('../imgs/eight-bg.jpg');
+    height: 60vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.login{
+    background-color: #000;
+    height: 81vh;
+    input{
+        background-color: #9F9F9F;
+    }
+}
+.contact{
+    background-image: url('../imgs/conatct.jpg');
+    height: 30vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .7;
+    .box{
+        transform: translateY(120px);
+        color: #fff;
+    }
+}
+.box1{
+    border: 1px solid #694B36;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    transition: .7s;
+    .icon{
+        width: 15%;
+        height: 40px;
+        background-color: #694B36;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    &:hover{
+        border: 1px solid #fff;
+        cursor: pointer;
+        .icon{
+            
+                background-color: #fff;
+                color: #000;
+            
+        }
+    }
+}
+.input{
+    background-color: #000;
+    &::placeholder{
+        color: #fff;
+    }
+}
+// .slider1{
+//     background-image: "https://cdn.shopify.com/s/files/1/0559/0505/8894/files/mblslider01_c330bd75-0328-4de1-99b9-60934b6db59d_768x940.jpg?v=1655446977";
+//     background-position: center;
+//     background-repeat: no-repeat;
+//     background-size: cover;
+//     height: 90vh;
+// }
